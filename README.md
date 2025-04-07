@@ -1,4 +1,12 @@
 # TPO-PROGRA-1
+
+Integrantes:
+
+*Martin Catalano
+*Tobias Velazques
+*Mateo Scarzo
+*Fran Medina
+
 1. Introducción
 
 Este proyecto consiste en el desarrollo de un ajedrez en Python con variaciones en los movimientos de las piezas. La idea es mantener la esencia del juego tradicional, pero introduciendo reglas modificadas que aporten una dinámica diferente al juego.
