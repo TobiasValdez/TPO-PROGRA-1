@@ -3,7 +3,7 @@
 Integrantes:
 
 *Martin Catalano
-*Tobias Velazques
+*Tobias Valdez
 *Mateo Scarzo
 *Fran Medina
 
